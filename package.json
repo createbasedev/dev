@@ -1,0 +1,24 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "repo for dev work",
+  "main": "index.js",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0",
+    "vscode": "^1.60.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "activationEvents": [
+    "onLanguage:javascript"
+  ],
+  "keywords": [],
+  "author": "Glasslink",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/createbasedev/dev.git"
+  }
+}
